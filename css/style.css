@@ -34,6 +34,18 @@ body {
     margin: 16px;
 }
 
+.green {
+    background-color: #0bd6a1;
+}
+
+.yellow {
+    background-color: #ffd166;
+}
+
+.red {
+    background-color: #f0466f;
+}
+
 /* title */
 
 .title {
